@@ -2,7 +2,8 @@
 // 											//
 // xsSpawn | Ground Spawn or Halo Selection //
 // by bambam of xstremegaming.com		    //
-//											//
+// edited by Kuchenplatte for the FIX
+// Date: 21.07.2019											//
 //////////////////////////////////////////////
 
 class xstremeGroundorHaloDialog
